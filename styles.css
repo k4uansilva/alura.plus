@@ -15,7 +15,8 @@ body{
    padding: 0;
 }
 .principal{
-    background-image: url(robo.png)
+    background-image: url(robo.png);
+    background-repeat: no-repeat;   
 }
 
 .container{
